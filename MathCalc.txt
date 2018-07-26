@@ -14,3 +14,7 @@ div:
 
 a/b
 
+square:
+
+a*a
+
