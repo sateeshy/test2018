@@ -18,6 +18,7 @@ square:
 
 a*a
 
-remove
+remove file name:
 
+xyz.txt
 
